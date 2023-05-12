@@ -2,7 +2,7 @@
   "context": {
     "applicationName": "todo-app",
     "region": "eu-central-1",
-    "accountId": "221875718260",
+    "accountId": "195006370785",
     "dockerRepositoryName": "todo-app",
     "dockerImageTag": "DYNAMICALLY_OVERRIDDEN_BY_WORKFLOW",
     "applicationUrl": "https://app.stratospheric.dev",
