@@ -1,0 +1,10 @@
+{
+  "context": {
+    "applicationName": "todo-app",
+    "region": "eu-central-1",
+    "accountId": "195006370785",
+    "springProfile": "aws",
+    "environmentName": "staging",
+    "dockerImageUrl": "docker.io/ioantoader/todo-app-v1:latest"
+  }
+}
